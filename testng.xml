@@ -1,46 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="D:/localRespority/ConfigurationAnnotations">
-        <classes>
-            <class name="com.yiyibai.DBConfig"><methods>
-                <include name="beforeTest"/>
-            </methods>
-            </class>
-            <class name="com.yiyibai.HttpTest">
-                <parameter name="url" value="https://reqres.in/api/users?pages=2" />
-                <methods>
-                    <include name="getTest"/>
-                </methods>
-            </class>
-            <class name="com.yiyibai.TestDBConnection">
-                <methods>
-                    <include name="runOtherTest1"/>
-                    <include name="runOtherTest2"/>
-                </methods>
-            </class>
-            <class name="com.yiyibai.TestGetApi">
-                <methods>
-                    <include name="httpClientTest"/>
-                </methods>
-            </class>
-            <class name="com.yiyibai.TestParameterDataProvider3">
-                <methods>
-                    <include name="test1"/>
-                    <include name="test2"/>
-                </methods>
-            </class>
-            <class name="com.yiyibai.TestRuntime">
-                <methods>
-                    <include name="divisionWithException"/>
-                </methods>
-            </class>
-            <class name="com.yiyibai.TimeoutTest">
-                <methods>
-                    <include name="testThisShouldPass"/>
-                    <include name="testThisShouldFail"/>
-                </methods>
-            </class>
-        </classes>
+    <test verbose="2" preserve-order="true" name="D:/localRespority/ConfigurationAnnotations/src/test/resources/test_suites">
+        <classes/>
     </test>
 </suite>
