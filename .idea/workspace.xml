@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c635934e-7651-48a0-96c1-91efb69b8068" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/test_suites/tesT1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/assembly.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Tag Library Descriptor" />
       </list>
     </option>
   </component>
@@ -27,6 +28,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="2DN8omfi2tCA19D6ACz07aEsK3d" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -40,7 +44,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/localRespority/ConfigurationAnnotations/src/test/resources/test_suites",
+    "last_opened_file_path": "D:/localRespority/ConfigurationAnnotations",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -49,6 +54,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\localRespority\ConfigurationAnnotations" />
+      <recent name="D:\localRespority\ConfigurationAnnotations\src\test\resources" />
       <recent name="D:\localRespority\ConfigurationAnnotations\src\test\resources\test_suites" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -56,7 +63,7 @@
       <recent name="D:\localRespority\ConfigurationAnnotations\src\test\resources\test_suites" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestGetApi">
+  <component name="RunManager" selected="TestNG.TimeoutTest">
     <configuration name="D:/localRespority/ConfigurationAnnotations/src/test/resources/test_suites/tesT1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ConfigurationAnnotations" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/test_suites/tesT1.xml" />
@@ -118,7 +125,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestRuntime" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TimeoutTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ConfigurationAnnotations" />
       <extension name="coverage">
         <pattern>
@@ -127,7 +134,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.yiyibai" />
-      <option name="MAIN_CLASS_NAME" value="com.yiyibai.TestRuntime" />
+      <option name="MAIN_CLASS_NAME" value="com.yiyibai.TimeoutTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -137,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TimeoutTest" />
+        <item itemvalue="TestNG.D:/localRespority/ConfigurationAnnotations/src/test/resources/test_suites/tesT1.xml" />
         <item itemvalue="TestNG.TestGetApi" />
         <item itemvalue="TestNG.TestParameterXML" />
-        <item itemvalue="TestNG.D:/localRespority/ConfigurationAnnotations/src/test/resources/test_suites/tesT1.xml" />
         <item itemvalue="TestNG.HttpTest" />
-        <item itemvalue="TestNG.TestRuntime" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +164,9 @@
       <workItem from="1660552230277" duration="7000" />
       <workItem from="1660552345502" duration="4901000" />
       <workItem from="1660557280278" duration="183000" />
-      <workItem from="1660557487702" duration="1293000" />
+      <workItem from="1660557487702" duration="1585000" />
+      <workItem from="1660611407128" duration="337000" />
+      <workItem from="1660611756439" duration="1588000" />
     </task>
     <servers />
   </component>
