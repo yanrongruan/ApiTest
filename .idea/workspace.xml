@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c635934e-7651-48a0-96c1-91efb69b8068" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/assembly.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +164,7 @@
       <workItem from="1660557280278" duration="183000" />
       <workItem from="1660557487702" duration="1585000" />
       <workItem from="1660611407128" duration="337000" />
-      <workItem from="1660611756439" duration="1588000" />
+      <workItem from="1660611756439" duration="2613000" />
     </task>
     <servers />
   </component>
