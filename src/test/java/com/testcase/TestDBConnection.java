@@ -1,4 +1,4 @@
-package com.yiyibai;
+package com.testcase;
 import org.testng.annotations.Test;
 
 public class TestDBConnection {

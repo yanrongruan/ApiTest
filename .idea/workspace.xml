@@ -5,14 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c635934e-7651-48a0-96c1-91efb69b8068" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/methodpackage/basic/testbasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/methodpackage/restclient/restclient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/methodpackage/util/util_json.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testcase/login.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ConfigurationAnnotations-1.0-SNAPSHOT-fat-tests.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ConfigurationAnnotations-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/yiyibai/DBConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testcase/DBConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/yiyibai/HttpTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testcase/HttpTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/yiyibai/TestDBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testcase/TestDBConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/yiyibai/TestDataProvider3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testcase/TestDataProvider3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/yiyibai/TestGetApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testcase/TestGetApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/yiyibai/TestParameterXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testcase/TestParameterXML.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/yiyibai/TestRuntime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testcase/TestRuntime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/yiyibai/TimeoutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testcase/TimeoutTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/yiyibai/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testcase/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/test_suites/tesT1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/test_suites/tesT1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/yiyibai/DBConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/yiyibai/HttpTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/yiyibai/TestDBConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/yiyibai/TestDataProvider3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/yiyibai/TestGetApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/yiyibai/TestParameterXML.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/yiyibai/TestRuntime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/yiyibai/TimeoutTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/yiyibai/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/D__localRespority_ConfigurationAnnotations.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/D__localRespority_ConfigurationAnnotations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/D__localRespority_ConfigurationAnnotations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/D__localRespority_ConfigurationAnnotations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.yiyibai.DBConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.yiyibai.DBConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.yiyibai.HttpTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.yiyibai.HttpTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.yiyibai.TestDBConnection.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.yiyibai.TestDBConnection.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.yiyibai.TestDataProvider3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.yiyibai.TestDataProvider3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.yiyibai.TestGetApi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.yiyibai.TestGetApi.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.yiyibai.TestRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.yiyibai.TestRuntime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.yiyibai.TimeoutTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.yiyibai.TimeoutTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-not-run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,12 +58,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Tag Library Descriptor" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -44,6 +85,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Git.Branch.Popup.ShowAllRemotes": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -79,33 +121,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HttpTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ConfigurationAnnotations" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yiyibai.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.yiyibai" />
-      <option name="MAIN_CLASS_NAME" value="com.yiyibai.HttpTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestGetApi" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ConfigurationAnnotations" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yiyibai.*" />
+          <option name="PATTERN" value="com.testcase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.yiyibai" />
-      <option name="MAIN_CLASS_NAME" value="com.yiyibai.TestGetApi" />
+      <option name="MAIN_CLASS_NAME" value="com.testcase.TestGetApi" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -117,12 +142,12 @@
       <module name="ConfigurationAnnotations" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yiyibai.*" />
+          <option name="PATTERN" value="com.testcase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.yiyibai" />
-      <option name="MAIN_CLASS_NAME" value="com.yiyibai.TestParameterXML" />
+      <option name="MAIN_CLASS_NAME" value="com.testcase.TestParameterXML" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -134,12 +159,29 @@
       <module name="ConfigurationAnnotations" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yiyibai.*" />
+          <option name="PATTERN" value="com.testcase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.yiyibai" />
-      <option name="MAIN_CLASS_NAME" value="com.yiyibai.TimeoutTest" />
+      <option name="MAIN_CLASS_NAME" value="com.testcase.TimeoutTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ConfigurationAnnotations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testcase" />
+      <option name="MAIN_CLASS_NAME" value="com.testcase.login" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -150,10 +192,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.D:/localRespority/ConfigurationAnnotations/src/test/resources/test_suites/tesT1.xml" />
+        <item itemvalue="TestNG.login" />
         <item itemvalue="TestNG.TimeoutTest" />
         <item itemvalue="TestNG.TestGetApi" />
         <item itemvalue="TestNG.TestParameterXML" />
-        <item itemvalue="TestNG.HttpTest" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +214,8 @@
       <workItem from="1660557487702" duration="1585000" />
       <workItem from="1660611407128" duration="337000" />
       <workItem from="1660611756439" duration="3204000" />
-      <workItem from="1660615351464" duration="6726000" />
+      <workItem from="1660615351464" duration="9391000" />
+      <workItem from="1660640046675" duration="3592000" />
     </task>
     <servers />
   </component>
@@ -184,7 +227,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="comgit/webtest_ryr" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

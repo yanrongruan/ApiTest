@@ -1,4 +1,4 @@
-package com.yiyibai;
+package com.testcase;
 
 import java.lang.reflect.Method;
 import org.testng.Assert;

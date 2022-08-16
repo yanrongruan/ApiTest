@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]">
   <test thread-count="5" name="D:/localRespority/ConfigurationAnnotations(failed)">
     <classes>
-      <class name="com.yiyibai.TimeoutTest">
+      <class name="com.testcase.TimeoutTest">
         <methods>
           <include name="testThisShouldFail"/>
         </methods>
-      </class> <!-- com.yiyibai.TimeoutTest -->
+      </class> <!-- com.testcase.TimeoutTest -->
     </classes>
   </test> <!-- D:/localRespority/ConfigurationAnnotations(failed) -->
 </suite> <!-- Failed suite [All Test Suite] -->
