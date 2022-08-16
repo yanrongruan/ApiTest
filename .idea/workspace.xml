@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c635934e-7651-48a0-96c1-91efb69b8068" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ConfigurationAnnotations-1.0-SNAPSHOT-fat-tests.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ConfigurationAnnotations-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +53,8 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "spring.configuration.checksum": "9236087fc5193e3cbe35ff9c48c3be93"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -61,7 +68,7 @@
       <recent name="D:\localRespority\ConfigurationAnnotations\src\test\resources\test_suites" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TimeoutTest">
+  <component name="RunManager" selected="TestNG.D:/localRespority/ConfigurationAnnotations/src/test/resources/test_suites/tesT1.xml">
     <configuration name="D:/localRespority/ConfigurationAnnotations/src/test/resources/test_suites/tesT1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ConfigurationAnnotations" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/test_suites/tesT1.xml" />
@@ -142,8 +149,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TimeoutTest" />
         <item itemvalue="TestNG.D:/localRespority/ConfigurationAnnotations/src/test/resources/test_suites/tesT1.xml" />
+        <item itemvalue="TestNG.TimeoutTest" />
         <item itemvalue="TestNG.TestGetApi" />
         <item itemvalue="TestNG.TestParameterXML" />
         <item itemvalue="TestNG.HttpTest" />
@@ -164,7 +171,8 @@
       <workItem from="1660557280278" duration="183000" />
       <workItem from="1660557487702" duration="1585000" />
       <workItem from="1660611407128" duration="337000" />
-      <workItem from="1660611756439" duration="2613000" />
+      <workItem from="1660611756439" duration="3204000" />
+      <workItem from="1660615351464" duration="6726000" />
     </task>
     <servers />
   </component>
