@@ -13,6 +13,17 @@
                     <include name="getTest"/>
                 </methods>
             </class>
+            <class name="com.testcase.httpTest2">
+                <methods>
+                    <include name="test1"/>
+                    <include name="test2"/>
+                </methods>
+            </class>
+            <class name="com.testcase.TestRandom">
+                <methods>
+                    <include name="testRandom1"/>
+                </methods>
+            </class>
             <class name="com.testcase.TestDBConnection">
                 <methods>
                     <include name="runOtherTest1"/>
